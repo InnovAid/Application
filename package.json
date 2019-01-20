@@ -1,0 +1,19 @@
+{
+  "name": "innovaid",
+  "version": "0.0.1",
+  "description": "Testing vision",
+  "dependencies": {
+    "@google-cloud/vision": "^0.24.0",
+    "jest": "^23.6.0",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "path": "^0.12.7",
+    "multer": "^1.4.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
